@@ -88,7 +88,7 @@ return [
         ],
     ],
     'incomeCategory'    => [
-        'title'          => 'Income categories',
+        'title'          => 'Income Categories',
         'title_singular' => 'Income Category',
         'fields'         => [
             'id'                => 'ID',
